@@ -1162,7 +1162,8 @@ div[style*="height: 16px;"] + div[style="height: 16px;"] {
 .modeUnread-3Cxepe.typeThread-2Aqh6X .content-1gYQeQ::before {
   content: "";
   position: absolute;
-  background: var(--interactive-active);
+  background: #000;
+/*   background: var(--interactive-active); */
   height: 2px;
   width: 12px;
   left: -14px;
